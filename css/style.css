@@ -1,0 +1,74 @@
+body{
+    background-color: #f3f1ff;
+}
+.container{
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+.bg_color{
+    background-color: #562EFF;
+}
+.logo a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+}
+.section_header{
+    color: #562EFF;
+}
+.blog_img_title p a{
+    text-decoration: none;
+    color: #562EFF;
+}
+.player_border{
+    border-bottom: 1.5px solid #D1D1D1;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+    padding: 15px;
+}
+.card-footer{
+    border: none;
+    background-color: #ffffff;
+}
+.card-footer .star{
+    color: #ffbd08;
+}
+.card-footer .time{
+    color: red;
+    border: 0px solid red;
+    border-radius: 18px;
+    background-color: #fddce1;
+}
+.sp_color{
+    color: #eaeaea;
+}
+.card-text{
+    color: tomato;
+}
+
+/* footer part strat*/
+.footer a{
+    text-decoration: none;
+    color: black;
+}
+.footer a:hover{
+    color: #562EFF;
+}
+.footer{
+    padding-top: 50px;
+}
+.footer_logo a{
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    font-size: 20px;
+}
+.footer_logo a img{
+    
+}
+
+/* footer part end */
